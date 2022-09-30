@@ -1,7 +1,7 @@
 # Angular Servie Demo App
 
-Service in Angular use to cenerilzing the app features opretion flow control
-
+Service in Angular is used to centralize the app operation flow control
+(https://raw.githubusercontent.com/omidkheiri/AngularService/main/src/assets/img/AngularServiceDemo.png?raw=true)
 You can read Comments to get the poitn.
 
 ## Development server
