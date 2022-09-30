@@ -19,6 +19,11 @@ import { LoggingServeice } from './logging.service';
     BrowserModule,
     FormsModule,
   ],
+
+//--> You can define the service in all levels of your app from 'app.module'
+//    to a child component   but remember that all of the child components
+//    use that instance provided in parent and do not need to add a child 
+//    component, decorator 'providers:[ ]'
   providers: [LoggingServeice,AccountService],
   bootstrap: [AppComponent]
 })
