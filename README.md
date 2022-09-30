@@ -1,6 +1,8 @@
-# MyFirstApp
+# Angular Servie Demo App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Service in Angular use to cenerilzing the app features opretion flow control
+
+You can read Comments to get the poitn.
 
 ## Development server
 
